@@ -6779,6 +6779,16 @@
 		},
 		{
 			"pkg": {
+				"name": "proftpd",
+				"secfixes": {
+					"1.3.8b-r0": [
+						"CVE-2023-48795"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "prometheus-blackbox-exporter",
 				"secfixes": {
 					"0.18.0-r0": [
