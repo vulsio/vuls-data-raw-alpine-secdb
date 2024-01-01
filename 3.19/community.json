@@ -9998,6 +9998,16 @@
 		},
 		{
 			"pkg": {
+				"name": "xerces-c",
+				"secfixes": {
+					"3.2.5-r0": [
+						"CVE-2018-1311"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "xorg-server",
 				"secfixes": {
 					"1.19.5-r0": [
