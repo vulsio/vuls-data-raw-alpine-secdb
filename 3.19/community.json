@@ -6381,6 +6381,16 @@
 		},
 		{
 			"pkg": {
+				"name": "perl-spreadsheet-parseexcel",
+				"secfixes": {
+					"0.66-r0": [
+						"CVE-2023-7101"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "pev",
 				"secfixes": {
 					"0.82-r0": [
