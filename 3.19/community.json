@@ -7172,6 +7172,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-jwcrypto",
+				"secfixes": {
+					"1.5.1-r0": [
+						"CVE-2023-6681"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-jwt",
 				"secfixes": {
 					"2.4.0-r0": [
