@@ -582,6 +582,17 @@
 		},
 		{
 			"pkg": {
+				"name": "cjson",
+				"secfixes": {
+					"1.7.17-r0": [
+						"CVE-2023-50472",
+						"CVE-2023-50471"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "confuse",
 				"secfixes": {
 					"3.2.2-r0": [
