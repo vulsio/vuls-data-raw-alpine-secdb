@@ -202,6 +202,19 @@
 		},
 		{
 			"pkg": {
+				"name": "buildkit",
+				"secfixes": {
+					"0.12.5-r0": [
+						"CVE-2024-23650",
+						"CVE-2024-23651",
+						"CVE-2024-23652",
+						"CVE-2024-23653"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "cabextract",
 				"secfixes": {
 					"1.8-r0": [
