@@ -4683,6 +4683,16 @@
 		},
 		{
 			"pkg": {
+				"name": "libosip2",
+				"secfixes": {
+					"5.3.1-r0": [
+						"CVE-2022-41550"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "libproxy",
 				"secfixes": {
 					"0.4.15-r8": [
