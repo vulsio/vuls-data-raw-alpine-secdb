@@ -5225,6 +5225,16 @@
 		},
 		{
 			"pkg": {
+				"name": "mongo-c-driver",
+				"secfixes": {
+					"1.25.4-r0": [
+						"CVE-2023-0437"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "mozjs115",
 				"secfixes": {
 					"115.4.0": [
