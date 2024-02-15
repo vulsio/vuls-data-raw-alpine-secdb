@@ -1439,6 +1439,17 @@
 		},
 		{
 			"pkg": {
+				"name": "dotnet8-runtime",
+				"secfixes": {
+					"8.0.2-r0": [
+						"CVE-2024-21386",
+						"CVE-2024-21404"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "drupal7",
 				"secfixes": {
 					"7.58-r0": [
