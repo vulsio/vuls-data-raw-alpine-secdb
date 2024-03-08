@@ -3987,6 +3987,16 @@
 		},
 		{
 			"pkg": {
+				"name": "inspircd",
+				"secfixes": {
+					"3.10.0-r0": [
+						"CVE-2021-33586"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "ipmitool",
 				"secfixes": {
 					"1.8.18-r9": [
