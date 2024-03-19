@@ -746,6 +746,16 @@
 		},
 		{
 			"pkg": {
+				"name": "clojure",
+				"secfixes": {
+					"1.11.2-r0": [
+						"CVE-2024-22871"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "cloud-init",
 				"secfixes": {
 					"21.1-r1": [
