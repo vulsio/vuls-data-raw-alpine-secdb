@@ -7089,6 +7089,17 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-aiohttp",
+				"secfixes": {
+					"3.9.3-r0": [
+						"CVE-2024-23334",
+						"CVE-2024-23829"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-asyncssh",
 				"secfixes": {
 					"2.14.2-r0": [
