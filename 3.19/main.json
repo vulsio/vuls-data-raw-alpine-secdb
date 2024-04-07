@@ -4057,6 +4057,16 @@
 		},
 		{
 			"pkg": {
+				"name": "perl-http-body",
+				"secfixes": {
+					"1.22-r4": [
+						"CVE-2013-4407"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "perl-lwp-protocol-https",
 				"secfixes": {
 					"6.11-r0": [

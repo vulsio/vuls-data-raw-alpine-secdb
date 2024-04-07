@@ -3965,6 +3965,16 @@
 		},
 		{
 			"pkg": {
+				"name": "perl-http-body",
+				"secfixes": {
+					"1.22-r3": [
+						"CVE-2013-4407"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "perl",
 				"secfixes": {
 					"5.26.1-r0": [
