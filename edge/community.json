@@ -10600,6 +10600,16 @@
 		},
 		{
 			"pkg": {
+				"name": "yubikey-manager-qt",
+				"secfixes": {
+					"0": [
+						"YSA-2024-01"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "zabbix",
 				"secfixes": {
 					"3.0.4-r0": [
