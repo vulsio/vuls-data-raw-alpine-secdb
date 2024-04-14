@@ -4417,6 +4417,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-idna",
+				"secfixes": {
+					"3.7-r0": [
+						"CVE-2024-3651"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-jinja2",
 				"secfixes": {
 					"1.11.3-r0": [
