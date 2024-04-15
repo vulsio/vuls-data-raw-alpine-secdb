@@ -9459,6 +9459,16 @@
 		},
 		{
 			"pkg": {
+				"name": "tinyxml",
+				"secfixes": {
+					"2.6.2-r2": [
+						"CVE-2021-42260"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "tor",
 				"secfixes": {
 					"0.3.0.8-r0": [
