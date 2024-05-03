@@ -6686,6 +6686,16 @@
 		},
 		{
 			"pkg": {
+				"name": "perl-email-mime",
+				"secfixes": {
+					"1.954-r0": [
+						"CVE-2024-4140"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "perl-image-exiftool",
 				"secfixes": {
 					"12.24-r0": [
