@@ -7625,6 +7625,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-tqdm",
+				"secfixes": {
+					"4.66.4-r0": [
+						"CVE-2024-34062"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-treq",
 				"secfixes": {
 					"22.1.0-r0": [
