@@ -9619,6 +9619,16 @@
 		},
 		{
 			"pkg": {
+				"name": "tpm2-tss",
+				"secfixes": {
+					"4.0.2-r0": [
+						"CVE-2024-29040"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "traceroute",
 				"secfixes": {
 					"2.1.3-r0": [
