@@ -3256,16 +3256,6 @@
 		},
 		{
 			"pkg": {
-				"name": "git-lfs2",
-				"secfixes": {
-					"0": [
-						"CVE-2020-27955"
-					]
-				}
-			}
-		},
-		{
-			"pkg": {
 				"name": "gitea",
 				"secfixes": {
 					"1.11.2-r0": [
