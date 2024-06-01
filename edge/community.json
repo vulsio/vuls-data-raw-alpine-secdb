@@ -6912,6 +6912,16 @@
 		},
 		{
 			"pkg": {
+				"name": "plasma-workspace",
+				"secfixes": {
+					"6.0.5.1": [
+						"CVE-2024-36041"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "podman-tui",
 				"secfixes": {
 					"0.15.0-r0": [
