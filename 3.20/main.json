@@ -6309,6 +6309,16 @@
 		},
 		{
 			"pkg": {
+				"name": "yajl",
+				"secfixes": {
+					"2.1.0-r9": [
+						"CVE-2023-33460"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "zeromq",
 				"secfixes": {
 					"4.3.1-r0": [
