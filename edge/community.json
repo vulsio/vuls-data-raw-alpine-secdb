@@ -2038,6 +2038,17 @@
 		},
 		{
 			"pkg": {
+				"name": "fig2dev",
+				"secfixes": {
+					"3.2.8b-r0": [
+						"CVE-2021-37529",
+						"CVE-2021-37530"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "filezilla",
 				"secfixes": {
 					"3.66.4-r0": [
