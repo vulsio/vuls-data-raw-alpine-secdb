@@ -8695,6 +8695,16 @@
 		},
 		{
 			"pkg": {
+				"name": "rclone",
+				"secfixes": {
+					"1.67.0-r0": [
+						"CVE-2023-45288"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "rdesktop",
 				"secfixes": {
 					"1.8.6-r0": [
