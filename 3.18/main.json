@@ -4500,6 +4500,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-requests",
+				"secfixes": {
+					"2.32.3-r0": [
+						"CVE-2024-35195"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-urllib3",
 				"secfixes": {
 					"1.25.9-r0": [
