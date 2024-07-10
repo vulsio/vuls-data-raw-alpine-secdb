@@ -3128,6 +3128,16 @@
 		},
 		{
 			"pkg": {
+				"name": "flux",
+				"secfixes": {
+					"0.36.0-r0": [
+						"CVE-2022-39272"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "freeimage",
 				"secfixes": {
 					"3.18.0-r2": [
