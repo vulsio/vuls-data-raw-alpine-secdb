@@ -9685,6 +9685,16 @@
 		},
 		{
 			"pkg": {
+				"name": "sonarr",
+				"secfixes": {
+					"4.0.5.1710-r0": [
+						"CVE-2024-32655"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "soundtouch",
 				"secfixes": {
 					"2.1.2-r0": [
