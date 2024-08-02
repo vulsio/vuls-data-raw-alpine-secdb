@@ -3257,6 +3257,16 @@
 		},
 		{
 			"pkg": {
+				"name": "fuse",
+				"secfixes": {
+					"2.9.8-r0": [
+						"CVE-2018-10906"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "gdnsd",
 				"secfixes": {
 					"2.4.3-r0": [
