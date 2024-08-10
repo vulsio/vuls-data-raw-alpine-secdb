@@ -4581,6 +4581,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-setuptools",
+				"secfixes": {
+					"70.3.0-rc0": [
+						"CVE-2024-6345"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-urllib3",
 				"secfixes": {
 					"1.25.9-r0": [
