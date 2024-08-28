@@ -6087,6 +6087,16 @@
 		},
 		{
 			"pkg": {
+				"name": "neatvnc",
+				"secfixes": {
+					"0.8.1-r0": [
+						"CVE-2024-42458"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "nebula",
 				"secfixes": {
 					"1.8.1-r0": [
