@@ -16,6 +16,16 @@
 	"packages": [
 		{
 			"pkg": {
+				"name": "aardvark-dns",
+				"secfixes": {
+					"1.12.2-r0": [
+						"CVE-2024-8418"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "advancecomp",
 				"secfixes": {
 					"2.1-r2": [
