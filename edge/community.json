@@ -4077,6 +4077,17 @@
 		},
 		{
 			"pkg": {
+				"name": "hylafaxplus",
+				"secfixes": {
+					"7.0.2-r2": [
+						"CVE-2020-15396",
+						"CVE-2020-15397"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "icinga2",
 				"secfixes": {
 					"2.11.3-r1": [
