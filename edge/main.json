@@ -553,6 +553,17 @@
 		},
 		{
 			"pkg": {
+				"name": "botan3",
+				"secfixes": {
+					"3.5.0-r0": [
+						"CVE-2024-34702",
+						"CVE-2024-39312"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "bridge",
 				"secfixes": {
 					"0": [
