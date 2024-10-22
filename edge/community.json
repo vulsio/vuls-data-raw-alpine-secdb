@@ -5578,6 +5578,16 @@
 		},
 		{
 			"pkg": {
+				"name": "llhttp",
+				"secfixes": {
+					"9.2.1-r0": [
+						"CVE-2024-27982"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "lrzip",
 				"secfixes": {
 					"0.640-r0": [
