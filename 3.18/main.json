@@ -5376,6 +5376,16 @@
 		},
 		{
 			"pkg": {
+				"name": "syslog-ng",
+				"secfixes": {
+					"3.38.1-r0": [
+						"CVE-2022-38725"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "tar",
 				"secfixes": {
 					"0": [
