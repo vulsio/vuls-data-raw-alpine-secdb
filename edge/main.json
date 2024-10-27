@@ -4317,6 +4317,16 @@
 		},
 		{
 			"pkg": {
+				"name": "pgpool",
+				"secfixes": {
+					"4.5.4-r0": [
+						"CVE-2024-45624"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "pjproject",
 				"secfixes": {
 					"2.11-r0": [
