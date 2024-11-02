@@ -7030,16 +7030,6 @@
 		},
 		{
 			"pkg": {
-				"name": "opensmtpd-extras",
-				"secfixes": {
-					"6.6.4-r0": [
-						"CVE-2020-8794"
-					]
-				}
-			}
-		},
-		{
-			"pkg": {
 				"name": "opensmtpd",
 				"secfixes": {
 					"6.6.2p1-r0": [
