@@ -4306,6 +4306,16 @@
 		},
 		{
 			"pkg": {
+				"name": "perl-module-scandeps",
+				"secfixes": {
+					"1.37-r0": [
+						"CVE-2024-10224"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "perl",
 				"secfixes": {
 					"5.26.1-r0": [
