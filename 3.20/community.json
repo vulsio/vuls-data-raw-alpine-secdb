@@ -7950,6 +7950,16 @@
 		},
 		{
 			"pkg": {
+				"name": "py3-tornado",
+				"secfixes": {
+					"6.4.2-r0": [
+						"CVE-2024-7592"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "py3-tqdm",
 				"secfixes": {
 					"4.66.4-r0": [
