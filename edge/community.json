@@ -6347,16 +6347,6 @@
 		},
 		{
 			"pkg": {
-				"name": "openfire",
-				"secfixes": {
-					"4.7.5-r0": [
-						"CVE-2023-32315"
-					]
-				}
-			}
-		},
-		{
-			"pkg": {
 				"name": "openjdk11",
 				"secfixes": {
 					"11.0.12_p7-r0": [
