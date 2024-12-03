@@ -9196,6 +9196,16 @@
 		},
 		{
 			"pkg": {
+				"name": "rapidjson",
+				"secfixes": {
+					"1.1.0-r7": [
+						"CVE-2024-38517"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "raptor2",
 				"secfixes": {
 					"2.0.15-r2": [
