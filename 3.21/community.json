@@ -13,7 +13,7 @@
 	],
 	"reponame": "community",
 	"urlprefix": "https://dl-cdn.alpinelinux.org/alpine",
-	"distroversion": "edge",
+	"distroversion": "v3.21",
 	"packages": [
 		{
 			"pkg": {
