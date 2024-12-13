@@ -340,6 +340,16 @@
 		},
 		{
 			"pkg": {
+				"name": "cargo-modules",
+				"secfixes": {
+					"0.21.1-r0": [
+						"CVE-2024-12224"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "cfengine",
 				"secfixes": {
 					"3.12.2-r0": [
