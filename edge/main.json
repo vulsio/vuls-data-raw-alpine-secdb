@@ -5129,6 +5129,16 @@
 		},
 		{
 			"pkg": {
+				"name": "socat",
+				"secfixes": {
+					"0": [
+						"CVE-2024-54661"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "sofia-sip",
 				"secfixes": {
 					"1.13.11-r0": [
