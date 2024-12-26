@@ -3945,6 +3945,16 @@
 		},
 		{
 			"pkg": {
+				"name": "hugo",
+				"secfixes": {
+					"0.140.1-r0": [
+						"CVE-2024-55601"
+					]
+				}
+			}
+		},
+		{
+			"pkg": {
 				"name": "hylafaxplus",
 				"secfixes": {
 					"7.0.2-r2": [
